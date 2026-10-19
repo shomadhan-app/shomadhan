@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# আপনার ডোমেইন বসিয়ে নিচের লাইনটি চালু করুন:
+# Sitemap: https://YOUR-DOMAIN/sitemap.xml
