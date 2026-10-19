@@ -1,8 +1,12 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.shomadhan.app",
-        "sha256_cert_fingerprints": ["30:42:5C:DE:08:8C:84:79:32:95:87:30:73:E4:09:08:93:18:C3:01:3D:BA:F5:86:8D:41:D8:8F:8D:24:F6:65"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.shomadhan_app.twa",
+      "sha256_cert_fingerprints": [
+        "আপনার_SHA256_ফিঙ্গারপ্রিন্টটি_এখানে_বসান"
+      ]
+    }
+  }
+]
